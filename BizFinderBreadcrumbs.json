@@ -3,12 +3,21 @@
     "officeType": "null",
     "pageName": "Home",
     "pageShortName": "Home",
-    "URL": "https://bizfinder.jeevanbimabazaar.com/"
+    "URL": "https://bizfinder.jeevanbimabazaar.com/",
+    "parentOfficeType": "null"
   },
   {
     "officeType": "Central Office",
     "pageName": "LIC Central Office Mumbai",
     "pageShortName": "LIC CO Mumbai",
-    "URL": "https://bizfinder.jeevanbimabazaar.com/2025/05/lic-central-office-mumbai.html"
+    "URL": "https://bizfinder.jeevanbimabazaar.com/2025/05/lic-central-office-mumbai.html",
+    "parentOfficeType": "Home"
+  },
+  {
+    "officeType": "Zonal Office",
+    "pageName": "LIC Zonal Office Patna",
+    "pageShortName": "LIC ZO Patna",
+    "URL": "https://bizfinder.jeevanbimabazaar.com/2025/05/lic-zonal-office-patna.html",
+    "parentOfficeType": "LIC Central Office Mumbai"
   }
 ]
